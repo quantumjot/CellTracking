@@ -4,8 +4,8 @@
 
 The cell tracking pipeline consists of three libraries:
 + BayesianTracker
-+ ImPy
-+ ImPy server
++ Sequitr
++ Sequitr server
 
 [![conv-net-output](http://lowe.cs.ucl.ac.uk/images/segmentation.png)]()  
 *Example of segmenting and localizing cells in low contrast microscopy images*
@@ -36,7 +36,7 @@ The following (optional) flags can be used to specify how the server instance is
 usage: server.py [-h] [--jobdir JOBDIR] [--logdir LOGDIR]
                  [--gpus [{0,1,2,3} [{0,1,2,3} ...]]] [--local] [--setup]
 
-ImPy server process
+Sequitr server process
 
 optional arguments:
   -h, --help            show this help message and exit
