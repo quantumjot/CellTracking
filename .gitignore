@@ -1,0 +1,8 @@
+*.pyc
+*.DS_Store
+*.hdf5
+*.so
+*.dylib
+*.config
+*.cc
+*.h
