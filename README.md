@@ -3,8 +3,8 @@
 *Please note, this is just a landing page for our cell tracking software projects*
 
 The cell tracking pipeline consists of several libraries:
-+ BayesianTracker
-+ Sequitr
++ BayesianTracker (https://github.com/quantumjot/BayesianTracker)
++ Sequitr (https://github.com/quantumjot/sequitr)
 + Sequitr server
 + Neighbourhood analysis and Chessplots (https://github.com/DGradeci/Chessplots)
 
@@ -17,7 +17,7 @@ For more information see: http://lowe.cs.ucl.ac.uk/
 
 ### Launching the server
 
-We are currently using TensorFlow v1.8.
+We are currently using TensorFlow v1.12.
 
 On the first run, you can either manually create a 'server.config' file or run:
 
