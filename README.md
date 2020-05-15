@@ -10,6 +10,7 @@ The cell tracking pipeline consists of several libraries:
 ### Image analysis and cell tracking
 + Sequitr (https://github.com/quantumjot/sequitr)
 + BayesianTracker (https://github.com/quantumjot/BayesianTracker)
++ Arboretum (https://github.com/quantumjot/Arboretum)
 
 ### Cell neighbourhood and fate analysis
 + Neighbourhood analysis and Chessplots (https://github.com/DGradeci/Chessplots)
