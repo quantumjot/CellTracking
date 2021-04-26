@@ -8,7 +8,8 @@ The cell tracking pipeline consists of several libraries:
 + OctopusLite (https://github.com/quantumjot/OctopusLite)
 
 ### Image analysis and cell tracking
-+ Sequitr (https://github.com/quantumjot/sequitr)
++ cellx (https://github.com/quantumjot/cellx)
++ CNN-annotator (https://github.com/lowe-lab-ucl/cnn-annotator)
 + BayesianTracker (https://github.com/quantumjot/BayesianTracker)
 + Arboretum (https://github.com/quantumjot/Arboretum)
 
