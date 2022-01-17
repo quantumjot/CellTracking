@@ -13,6 +13,9 @@ The cell tracking pipeline consists of several libraries:
 + BayesianTracker (https://github.com/quantumjot/BayesianTracker)
 + Arboretum (https://github.com/quantumjot/Arboretum)
 
+### Explainable AI models
++ cellx-predict (https://github.com/lowe-lab-ucl/cellx-predict)
+
 ### Cell cycling & lineage tree analysis 
 + DeepTree (https://github.com/KristinaUlicna/DeepTree)
 
